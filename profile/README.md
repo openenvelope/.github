@@ -1,6 +1,6 @@
 # Envelope
 
-Envelope is the multi-agent workflow designer. Describe what you need in plain language — Envelope structures it into a complete sub-agent design with named agents, roles, skills, model assignments, tool access, and handoff logic, then exports it as a schema-valid `.envelope.json` file.
+The multi-agent workflow designer. Describe what you need in plain language — Envelope structures it into a complete sub-agent design with named agents, roles, skills, model assignments, tool access, and handoff logic, then exports it as a schema-valid `.envelope.json` file.
 
 ## What's here
 
